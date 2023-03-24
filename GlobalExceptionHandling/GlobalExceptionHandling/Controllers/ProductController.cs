@@ -1,5 +1,4 @@
 ﻿using GlobalExceptionHandling.Exceptions;
-using GlobalExceptionHandling.Model;
 using GlobalExceptionHandling.Models;
 using GlobalExceptionHandling.Services;
 using Microsoft.AspNetCore.Mvc;

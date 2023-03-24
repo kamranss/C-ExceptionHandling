@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.AssemblyInfo.cs
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\GlobalExceptionHandling\GlobalExceptionHandling\obj\Debug\net6.0\GlobalExceptionHandling.MvcApplicationPartsAssemblyInfo.cache
